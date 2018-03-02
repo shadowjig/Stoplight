@@ -19,9 +19,9 @@ definition(
     author: "shadowjig",
     description: "Light for young children to indicate if it's time to get up.  Create a stop light using a schedule and an RGB bulb.",
     category: "Family",
-    iconUrl: "https://github.com/shadowjig/StopLight_SmartApp/raw/master/traffic_light.png",
-    iconX2Url: "https://github.com/shadowjig/StopLight_SmartApp/raw/master/traffic_light@2x.png",
-    iconX3Url: "https://github.com/shadowjig/StopLight_SmartApp/raw/master/traffic_light@2x.png")
+    iconUrl: "https://github.com/shadowjig/Stopligth/raw/master/traffic_light.png",
+    iconX2Url: "https://github.com/shadowjig/Stoplight/raw/master/traffic_light@2x.png",
+    iconX3Url: "https://github.com/shadowjig/Stopligt/raw/master/traffic_light@2x.png")
 
 preferences {
     section() {
